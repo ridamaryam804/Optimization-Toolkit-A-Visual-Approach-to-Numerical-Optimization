@@ -5,7 +5,7 @@ A visual numerical optimization tool with interactive GUI for comparing Golden S
  Install dependencies:
  pip install streamlit numpy matplotlib sympy pandas
 
- Run the application:
+ # Run the application:
 streamlit run Optimization.py
 
  # Features
@@ -25,3 +25,4 @@ Optimization.py
   # Requirements
   Python 3.8+
 Streamlit, NumPy, Matplotlib, SymPy, Pandas
+
